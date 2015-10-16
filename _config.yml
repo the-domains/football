@@ -1,7 +1,7 @@
-name: null
+name: football
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.08122855215333402
+typography_spectrum: 0.6824706553015858
 cta:
   domain: null
   bucket: null
@@ -19,6 +19,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.19832543772645295
 purpose:
   - name: follow
     item: null
